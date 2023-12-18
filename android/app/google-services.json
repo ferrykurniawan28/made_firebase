@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664527327337",
+    "project_id": "made-ebaf4",
+    "storage_bucket": "made-ebaf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664527327337:android:4851394aa8b971ba0a52f8",
+        "android_client_info": {
+          "package_name": "com.example.made_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3h_wgGFJkQSzPOoOszWMuZJ7JCcYjbck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
